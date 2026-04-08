@@ -1,0 +1,41 @@
+/* This is how you do comments */
+
+/*
+    Multi-line is good too
+    Pretty easy isn't it?
+*/
+
+
+body {
+  background-color: lightblue;
+}
+
+p {
+    background-color: blueviolet;
+    color : wheat;
+}
+
+h1 {
+    background-color: pink;
+    color: crimson;
+}
+
+h2 {
+  color: navy;
+  margin-left: 10px;
+} 
+
+/*ID selector*/
+#para3 {
+    font-size: 150%;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+a {
+    background-color: beige;
+}
+
+a:hover {
+    background-color: aqua;
+}
