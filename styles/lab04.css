@@ -89,3 +89,7 @@ aside:hover {
 ol ul {
     list-style-type: square;
 }
+
+.fluid {
+    width : 80%
+}
