@@ -14,7 +14,8 @@ description: CSS file for lab04.html
 /* Universal selector : Selects all elements */
 * { 
     font-family: calibri, sans-serif; 
-    color : #2F4F4F
+    color : #2F4F4F;
+    text-align: justify;
 }    
 
  /*
@@ -91,5 +92,10 @@ ol ul {
 }
 
 .fluid {
-    width : 80%
+    width : 100%
 }
+
+.img {
+    float: right;
+    width: 400px;
+} 
